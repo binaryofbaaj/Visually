@@ -37,8 +37,8 @@ An interactive algorithm visualization platform with step-by-step animations and
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/visually.git
-   cd visually
+   git clone https://github.com/binaryofbaaj/Visually.git
+   cd Visually
    ```
 
 2. **Open in browser**
